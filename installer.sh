@@ -1,8 +1,7 @@
 #!/bin/bash
-
 set -e
 
-echo "🔧 Whisper 설치를 시작합니다..."
+echo "🚀 Whisper 설치를 시작합니다..."
 
 sudo apt update
 sudo apt install -y python3 python3-pip ffmpeg
